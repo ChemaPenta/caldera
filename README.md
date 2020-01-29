@@ -2,9 +2,9 @@
 Caldera is a software to control an oil boiler Gavina (Roca) machine.
 Initially there are two versions:
 
-  0.- The 0.xx versions are running on an Arduino Nano. It works like the original electronics
+	0.- The 0.xx versions are running on an Arduino Nano. It works like the original electronics
   
-  1.- The 1.xx versions are running on an ESP32. It works connected to MQTT and so on.
+	1.- The 1.xx versions are running on an ESP32. It works connected to MQTT and so on.
 
 Let me know anything that could be added/removed/improved. 
 
