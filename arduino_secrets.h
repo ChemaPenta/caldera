@@ -1,3 +1,4 @@
+//rellena con tus datos de conexión y pon este archivo junto a los demás de v1.xx
 #define SECRET_SSID ""
 #define SECRET_PASS ""
 

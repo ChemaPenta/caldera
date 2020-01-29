@@ -5,7 +5,7 @@
     ChemaTronics v1.05 
         * MQTT working
         * Adding caldera functions
-        - Buttons
+        * Buttons
         - inputs and outputs
 
     Changed platform from Arduino Nano to ESP32 (from v0.xx)
@@ -13,7 +13,7 @@
   Based on code written by Limor Fried/Ladyada
     and Tony DiCola for Adafruit Industries.
     
-  MIT license, all text above must be included in any redistribution
+  GPL v3 license, all text above must be included in any redistribution
  ***********************************************************************/
 #include "config.h"
 #include "MQTT.h"
